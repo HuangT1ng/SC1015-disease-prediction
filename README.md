@@ -8,7 +8,7 @@ For detailed walkthrough, please view the source code: (https://github.com/Huang
   
 ## Contributors
 
-- Huang Ting - Neural Networks, Data Resampling, Naive bayes
+- Huang Ting - Neural Networks, Data Resampling, 
 - Gupta - Logistic Regression, Data Visualization, Data Extraction
 
 ## Problem Definition
@@ -23,7 +23,6 @@ For detailed walkthrough, please view the source code: (https://github.com/Huang
 
 1. Logistic Regression
 2. Neural Networks
-3. naive bayes
 
 ## Conclusion
 
@@ -38,7 +37,6 @@ For detailed walkthrough, please view the source code: (https://github.com/Huang
 
 - Tensorflow, Basic Neural Networks, Keras
 - Logistic Regression from sklearn
-- naive bayes model
 - coding a dropdown menu in jupyternotebook (literally took me a day)
 - Collaborating using GitHub
 
