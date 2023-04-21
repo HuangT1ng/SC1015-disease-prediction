@@ -14,7 +14,7 @@ For detailed walkthrough, please view the source code: (https://github.com/Huang
 ## Problem Definition
 
 - How to keep track of personal health status conveniently and affordably?
-- Which machine learning model would be the best to realise our goal?
+- How can we use machine learning to realise our goal?
 
 ## Data Set
 - Disease Prediction Using Machine Learning by kaushil268 from kaggle(https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
