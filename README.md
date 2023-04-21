@@ -41,7 +41,6 @@ For detailed walkthrough, please view the source code: (https://github.com/Huang
 - naive bayes model
 - coding a dropdown menu in jupyternotebook (literally took me a day)
 - Collaborating using GitHub
-- Concepts about Precision, Recall, and F1 Score while we explore methods to verify our test result
 
 ## References
 - https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9
