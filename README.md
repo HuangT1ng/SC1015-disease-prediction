@@ -3,7 +3,7 @@
 
 ## About
 
-This is a Mini-Project for CZ1115 (Introduction to Data Science and Artificial Intelligence) which focuses on predicting disease using machine learning. 
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) by team 3 from A140 which focuses on predicting disease using machine learning. 
 For detailed walkthrough, please view the source code: (https://github.com/HuangT1ng/SC1015-disease-prediction/blob/main/Disease%20Prediction.ipynb)
   
 ## Contributors
